@@ -1,0 +1,328 @@
+baseURL: "https://hugo-profile.netlify.app"
+languageCode: "fr"
+title: "Andrea Ferrer"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+Paginate: 3
+enableRobotsTXT: true
+# disqusShortname: your-disqus-shortname
+# googleAnalytics: G-MEASUREMENT_ID
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 1
+    # - identifier: gallery
+    #   name: Galerie
+    #   title: Blog posts
+    #   url: /gallery
+    #   weight: 2
+    #Dropdown menu
+    # - identifier: dropdown
+    #   title: Example dropdown menu
+    #   name: Dropdown
+    #   weight: 3
+    # - identifier: dropdown1
+    #   title: example dropdown 1
+    #   name: example 1
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 1
+    # - identifier: dropdown2
+    #   title: example dropdown 2
+    #   name: example 2
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 2
+
+params:
+  title: "LabVeilleTech"
+  description: Mon portfolio
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/favicon.png"
+
+  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
+  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
+  # Note the lack of "" in true, it should be of boolean type.
+  useBootstrapCDN: false
+
+  # If you want to load dynamically responsive images from Cloudinary
+  # This requires your images to be uploaded + hosted on Cloudinary
+  # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
+  # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
+
+  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
+  mathjax: false
+
+  # Whether the fade animations on the home page will be enabled
+  animate: true
+
+  theme:
+    # disableThemeToggle: true
+    # defaultTheme: "light" # dark
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+
+  # color preference
+  # color:
+  #   textColor:
+  #   secondaryTextColor:
+  #   backgroundColor:
+  #   secondaryBackgroundColor:
+  #   primaryColor:
+  #   secondaryColor:
+
+  #   darkmode:
+  #     textColor:
+  #     secondaryTextColor:
+  #     backgroundColor:
+  #     secondaryBackgroundColor:
+  #     primaryColor:
+  #     secondaryColor:
+
+  # If you want to customize the menu, you can change it here
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandName: "Andrea Ferrer" # Brand name for the brand | default is the title variable
+    disableSearch: false
+    # searchPlaceholder: "Search"
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Salut! Je suis"
+    title: "Andrea."
+    subtitle: "Bienvenue sur mon portfolio."
+    content: "Passionné par les domaines du digital et du design, je m'appelle Andrea Ferrer et je réside à Nyon."
+    image: /images/moi.svg
+    bottomImage:
+      enable: true
+    # roundImage: true # Make hero image circular | default false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/dreferrer
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/andrea-karl-ferrer/
+
+  # About
+  about:
+    enable: true
+    title: "À propos de moi"
+    image: "/images/mapic.jpg"
+    content: |-
+      Passionné par les domaines du digital et du design, je m'appelle Andrea Ferrer et je réside à Nyon. J'aimerais dans le futur travailler dans le domaine de l'UX et de l'UI. D'ici là, je souhaite continuer à développer mes compétences liés à ce domain.
+
+      L'UX, ou expérience utilisateur, fait référence à l'ensemble des interactions qu'un utilisateur a avec un produit, un service, ou un système, ainsi que les émotions et perceptions associées à ces interactions. L'objectif de l'UX est de créer une expérience positive et satisfaisante pour les utilisateurs tout au long de leur parcours.
+
+      D'ailleurs, mon Ikigai qui se trouve sur mon blog explique les motivations qui m'ont poussé à choisir ce domaine. Dans la vie, je souhaite partager mes experiences liées à mes passions, le tout via des canaux digitaux. Selon moi , la présentation des informations et la manière dont elles sont transmises sont des éléments clés pour une expérience utilisateur réussie.
+
+      Finalement, j'ai décidé de créer ce portfolio à l'aide de Hugo, un générateur de site statique. J'ai choisi ce générateur car il me permet de créer un site web rapide, sécurisé et facile à maintenir. De plus, il me permet de reproduire une interface avec un design moderne et minimaliste, ce qui correspond à mes attentes.
+    skills:
+      enable: true
+      title: "Voici quelques technologies avec lesquels j'ai pu travailler dernièrement:"
+      items:
+        - "HTML"
+        - "CSS"
+        - "JavaScript"
+        - "Vue.js"
+        - "Angular"
+        - "Express"
+
+  # Experience
+  experience:
+    enable: true
+    title: "Expérience"
+    items:
+      - job: "Community Manager"
+        company: "Aquatics Club La Côte XXI"
+        companyUrl: "https://aquatics-club.ch"
+        date: "2022 - maintenant"
+        featuredLink:
+          enable: true
+          name: "Voir le site"
+          url: "https://aquatics-club.ch"
+        content: "J'ai eu la chance de travailler avec Aquatics Club La Côte XXI, club de water-polo basé à Nyon. J'ai eu le privilège de créer l'identité visuelle, depuis la création du logo jusqu'à la mise en place d'une présence en ligne."
+
+      - job: "Digital Experience & Digital Media"
+        company: "Globout"
+        companyUrl: "https://globout.app"
+        date: "Aug 2023 - maintenant"
+        featuredLink:
+          enable: true
+          name: "Voir le site"
+          url: "https://globout.app"
+        info:
+          enable: true
+          content: Réalisation du site web.
+        content: |
+          Ma contribution a été la conception et le développement du site web de Globout, une landing-page destinée à mettre en avant le projet de la start-up et les futurs fonctionnalités de leur application. En mettant l'accent sur un design moderne et minimaliste, j'ai fait en sorte de retranscrire l'identité de Globout tout en offrant une expérience utilisateur fluide.
+
+      - job: "Freelance"
+        company: "Andrea Ferrer"
+        companyUrl: "https://andreaferrer.ch"
+        date: "Jan 2020 - maintenant"
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          name: "Voir le site"
+          url: "https://andreaferrer.ch"
+        content: |
+          J'ai pu travailler sur différents projets pour différents clients en freelance. Cela m'a permis de gagmer de l'expérience dans le domaine du développement web et du design. Les projets ont tous été différents les uns et des autres et m'ont appris à m'adapter à chaque situation.
+
+  # Education
+  education:
+    enable: true
+    title: "Parcours scolaire"
+    index: false
+    items:
+      - title: "Bachelor en Ingénierie des médias"
+        school:
+          name: "HEIG-VD"
+          url: "https://heig-vd.ch"
+        date: "2021 - 2024"
+        content: |-
+          Je suis actuellement en dernière année de mon Bachelor en Ingénierie des médias. Ce bachelor m'a permis d'acquérir des connaissances dans les domaines du développement web, de la communication et du design. C'est dans cette direction que je souhaite continuer dans le futur.
+      - title: "Maturité spécialisée option communication et information"
+        school:
+          name: "Gymnase de Nyon et Eracom"
+          url: "https://eracom.ch"
+        date: "2017 - 2021"
+        content: |-
+          J'ai obtenu ma maturité spécialisée option communication et information en 2021. Ce diplôme m'a permis d'acquérir des connaissances dans les domaines de la communication, du design et de l'informatique. J'ai pu également développer mes compétences en anglais et en italien.
+        featuredLink:
+          enable: false
+          name: "My academic record"
+          url: "https://example.com"
+
+  # Achievements
+  achievements:
+    enable: true
+    title: "Prix"
+    items:
+      - title: Prix du public - Hackdays 2023
+        content: Prix gagné pour un travail réalisé pour Couleur 3.
+        url: https://www.srgssr.ch/fr/news-medias/news/hackdays-ssr-2023-les-projets-vainqueurs
+        image: /images/achievment.jpg
+
+  # projects
+  projects:
+    enable: true
+    title: "Projets"
+    items:
+      - title: Digital Storytelling
+        content: Vidéo de vulgarisation sur le sujet des fake news.
+        image: /images/projects/ds-portfolio-pic.png
+        featured:
+          name: Vidéo
+          link: https://youtu.be/6QOPKnH8H8U
+        badges:
+          - "Premiere Pro"
+          - "Vidéo"
+        links:
+          - icon: fab fa-youtube
+            url: https://www.youtube.com/channel/UC95Jrf7B5ufcY7tcUB-xC_g
+
+      - title: Street Food Point
+        content: Création d'un blog dans le cadre d'un cours, sur le thème de la street food.
+        image: /images/projects/sfp-main-image.png
+        badges:
+          - "Wordpress"
+          - "Google Analytics"
+
+      - title: Couleur 3 Interact
+        content: Création en groupe d'une application mobile pour Couleur 3.
+        image: /images/projects/couleur3.png
+        featured:
+          name: Accéder au repo GitHub
+          link: https://github.com/vitpintodas/taoula-laravel
+        badges:
+          - "Vue.js"
+          - "Laravel"
+          - "Figma"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/vitpintodas/taoula-laravel
+
+  #Contact
+  contact:
+    enable: true
+    title: "Contact"
+    content: Je suis ouvert à travailler sur un projet. Si vous avez un question ou proposition, n'hésitez pas à me contacter !
+    email: contact@andreaferrer.ch
+    btnName: Contactez-moi
+    # formspree:
+    #   enable: true # `contact.email` value will be ignored
+    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Les posts récents
+      enable: true
+      disableFeaturedImage: false
+    socialNetworks:
+      github: https://github.com/dreferrer
+      linkedin: https://linkedin.com/in/andrea-karl-ferrer/
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+
+  # For translations
+  terms:
+    read: "Lire l'article"
+    toc: "Tables des matières"
+    copyright: "Tous droits réservés"
+    pageNotFound: "Page non trouvée"
+    emailText: "Regardez ce que j'ai trouvé sur le site de LabVeilleTech: "
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
+
+  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  #  <script type="text/javascript"><!-- any script here --></script>
