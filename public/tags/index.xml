@@ -1,60 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on LabVeilleTech</title>
-    <link>https://hugo-profile.netlify.app/tags/</link>
-    <description>Recent content in Tags on LabVeilleTech</description>
+    <title>Tags on Andrea Ferrer</title>
+    <link>https://dreferrer.github.io/veilletech-portfolio/tags/</link>
+    <description>Recent content in Tags on Andrea Ferrer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dreferrer.github.io/veilletech-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>example</title>
-      <link>https://hugo-profile.netlify.app/tags/example/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/example/</guid>
+      <title>Accessibilité</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/accessibilit%C3%A9/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/accessibilit%C3%A9/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown syntax</title>
-      <link>https://hugo-profile.netlify.app/tags/markdown-syntax/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/markdown-syntax/</guid>
+      <title>Arc</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/arc/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/arc/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mathjax</title>
-      <link>https://hugo-profile.netlify.app/tags/mathjax/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/mathjax/</guid>
+      <title>Design</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/design/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/design/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sample</title>
-      <link>https://hugo-profile.netlify.app/tags/sample/</link>
-      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/sample/</guid>
+      <title>Expérience</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/exp%C3%A9rience/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/exp%C3%A9rience/</guid>
       <description></description>
     </item>
     <item>
-      <title>Emoji support</title>
-      <link>https://hugo-profile.netlify.app/tags/emoji-support/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/emoji-support/</guid>
+      <title>Ikigai</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/ikigai/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/ikigai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Placeholder text</title>
-      <link>https://hugo-profile.netlify.app/tags/placeholder-text/</link>
-      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/placeholder-text/</guid>
+      <title>Nielsen</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/nielsen/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/nielsen/</guid>
       <description></description>
     </item>
     <item>
-      <title>Rich content</title>
-      <link>https://hugo-profile.netlify.app/tags/rich-content/</link>
-      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/rich-content/</guid>
+      <title>Psychologie</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/psychologie/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/psychologie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/tools/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trends</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/trends/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/trends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UX-UI</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/ux-ui/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/ux-ui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Veille technologique</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/tags/veille-technologique/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/tags/veille-technologique/</guid>
       <description></description>
     </item>
   </channel>

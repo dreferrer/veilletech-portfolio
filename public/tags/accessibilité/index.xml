@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessibilité on Andrea Ferrer</title>
+    <link>https://dreferrer.github.io/veilletech-portfolio/tags/accessibilit%C3%A9/</link>
+    <description>Recent content in Accessibilité on Andrea Ferrer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dreferrer.github.io/veilletech-portfolio/tags/accessibilit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design et accessibilité</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/design-accessibilite/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/design-accessibilite/</guid>
+      <description>L&amp;rsquo;article “Designing for accessibility is not that hard” traite de l&amp;rsquo;accessibilité numérique et propose sept lignes directrices pour rendre les produits numériques plus accessibles. L&amp;rsquo;accessibilité numérique concerne la création de contenu et d&amp;rsquo;applications numériques pouvant être utilisés par un large éventail de personnes, y compris celles ayant des incapacités visuelles, motrices, auditives, de la parole ou cognitives. Il existe un mythe selon lequel rendre un site web accessible est difficile et coûteux.</description>
+    </item>
+  </channel>
+</rss>

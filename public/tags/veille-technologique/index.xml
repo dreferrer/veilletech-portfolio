@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veille technologique on Andrea Ferrer</title>
+    <link>https://dreferrer.github.io/veilletech-portfolio/tags/veille-technologique/</link>
+    <description>Recent content in Veille technologique on Andrea Ferrer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dreferrer.github.io/veilletech-portfolio/tags/veille-technologique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mes outils de veille</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/outils-veille/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/outils-veille/</guid>
+      <description>En tant qu&amp;rsquo;étudiant, jongler avec les informations peut être délicat. Voici comment je navigue à travers les détails avec des outils simples mais efficaces.
+1. Twitter : J’utilise Twitter quotidiennement, que ce soit pour me divertir ou m’informer. Dans le cadre de la veille, plusieurs moyens me permettent de rester au courant des informations liées à mon domaine.
+Le premier, c’est un que l’on a pu voir en cours, les listes de diffusion.</description>
+    </item>
+    <item>
+      <title>Mon experimentation - Arc</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/mon-experimentation/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/mon-experimentation/</guid>
+      <description>Dans la vie, je suis un peu minimaliste, un peu maniaque et j’utilise BEAUCOUP mon ordinateur. Que ce soit pour le divertissement ou le travail, je suis toujours dessus. Le navigateur a donc beaucoup d’importance. J’ai presque toujours utilisé Chrome, mais il manquait quelque chose à ce navigateur. Quoi ? Je ne le savais pas forcément. Jusqu’au jour où sur Twitter je tombe sur un tweet parlant d’un navigateur en accès limité s’appelant “Arc”.</description>
+    </item>
+  </channel>
+</rss>

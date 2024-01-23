@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychologie on Andrea Ferrer</title>
+    <link>https://dreferrer.github.io/veilletech-portfolio/tags/psychologie/</link>
+    <description>Recent content in Psychologie on Andrea Ferrer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dreferrer.github.io/veilletech-portfolio/tags/psychologie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UX-UI et psychologie</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/ux-ui-psychologie/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/ux-ui-psychologie/</guid>
+      <description>Dans une récente conférence TEDx, Harrish Murugesan a dévoilé les mystères de la relation entre psychologie et conception de l&amp;rsquo;expérience utilisateur (UX). Son exposé éclaire la manière dont les développeurs d&amp;rsquo;applications exploitent les sens humains, les indices visuels, les couleurs, les sons et le renforcement positif pour sculpter le comportement des utilisateurs et créer des interfaces inoubliables.
+Comprendre la complexité de l&amp;rsquo;interaction humaine Murugesan souligne l&amp;rsquo;importance cruciale de la psychologie dans la conception de l&amp;rsquo;interface utilisateur.</description>
+    </item>
+  </channel>
+</rss>

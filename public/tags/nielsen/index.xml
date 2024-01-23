@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nielsen on Andrea Ferrer</title>
+    <link>https://dreferrer.github.io/veilletech-portfolio/tags/nielsen/</link>
+    <description>Recent content in Nielsen on Andrea Ferrer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dreferrer.github.io/veilletech-portfolio/tags/nielsen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les 10 heuristiques de Nielsen</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/heuristiques/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/heuristiques/</guid>
+      <description>J&amp;rsquo;ai récemment lu un article sur les 10 heuristiques de Nielsen, qui sont des principes fondamentaux pour l&amp;rsquo;interaction utilisateur. Ces principes ont été développés par Jakob Nielsen et Rolf Molich en 1990 et sont très respectés dans le domaine du design d&amp;rsquo;interaction.
+Visibilité de l&amp;rsquo;état du système : C&amp;rsquo;est l&amp;rsquo;idée que le système doit toujours tenir l&amp;rsquo;utilisateur informé de ce qui se passe, en fournissant un retour d&amp;rsquo;information approprié en temps opportun.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ikigai on Andrea Ferrer</title>
+    <link>https://dreferrer.github.io/veilletech-portfolio/tags/ikigai/</link>
+    <description>Recent content in Ikigai on Andrea Ferrer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dreferrer.github.io/veilletech-portfolio/tags/ikigai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon ikigai</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/ikigai/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/ikigai/</guid>
+      <description>Voici un aperçu de mon Ikigai.</description>
+    </item>
+  </channel>
+</rss>

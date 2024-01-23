@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX-UI on Andrea Ferrer</title>
+    <link>https://dreferrer.github.io/veilletech-portfolio/tags/ux-ui/</link>
+    <description>Recent content in UX-UI on Andrea Ferrer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dreferrer.github.io/veilletech-portfolio/tags/ux-ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design et accessibilité</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/design-accessibilite/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/design-accessibilite/</guid>
+      <description>L&amp;rsquo;article “Designing for accessibility is not that hard” traite de l&amp;rsquo;accessibilité numérique et propose sept lignes directrices pour rendre les produits numériques plus accessibles. L&amp;rsquo;accessibilité numérique concerne la création de contenu et d&amp;rsquo;applications numériques pouvant être utilisés par un large éventail de personnes, y compris celles ayant des incapacités visuelles, motrices, auditives, de la parole ou cognitives. Il existe un mythe selon lequel rendre un site web accessible est difficile et coûteux.</description>
+    </item>
+    <item>
+      <title>Les 10 heuristiques de Nielsen</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/heuristiques/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/heuristiques/</guid>
+      <description>J&amp;rsquo;ai récemment lu un article sur les 10 heuristiques de Nielsen, qui sont des principes fondamentaux pour l&amp;rsquo;interaction utilisateur. Ces principes ont été développés par Jakob Nielsen et Rolf Molich en 1990 et sont très respectés dans le domaine du design d&amp;rsquo;interaction.
+Visibilité de l&amp;rsquo;état du système : C&amp;rsquo;est l&amp;rsquo;idée que le système doit toujours tenir l&amp;rsquo;utilisateur informé de ce qui se passe, en fournissant un retour d&amp;rsquo;information approprié en temps opportun.</description>
+    </item>
+    <item>
+      <title>Les tendances UX et UI 2024</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/tendances-2024/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/tendances-2024/</guid>
+      <description>Alors que nous nous aventurons dans la toute nouvelle année 2024, le monde de l’UI et de l’UX est en pleine effervescence avec des tendances qui promettent de redéfinir nos expériences digitales. En tant qu&amp;rsquo;étudiant passionné par le design, je ne pouvais pas résister à l&amp;rsquo;envie de partager avec vous mes impressions sur ces évolutions fascinantes.
+Design génératif Le design génératif, propulsé par l&amp;rsquo;intelligence artificielle et des algorithmes innovants, m&amp;rsquo;a vraiment épaté.</description>
+    </item>
+    <item>
+      <title>UX-UI et psychologie</title>
+      <link>https://dreferrer.github.io/veilletech-portfolio/blogs/ux-ui-psychologie/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreferrer.github.io/veilletech-portfolio/blogs/ux-ui-psychologie/</guid>
+      <description>Dans une récente conférence TEDx, Harrish Murugesan a dévoilé les mystères de la relation entre psychologie et conception de l&amp;rsquo;expérience utilisateur (UX). Son exposé éclaire la manière dont les développeurs d&amp;rsquo;applications exploitent les sens humains, les indices visuels, les couleurs, les sons et le renforcement positif pour sculpter le comportement des utilisateurs et créer des interfaces inoubliables.
+Comprendre la complexité de l&amp;rsquo;interaction humaine Murugesan souligne l&amp;rsquo;importance cruciale de la psychologie dans la conception de l&amp;rsquo;interface utilisateur.</description>
+    </item>
+  </channel>
+</rss>
