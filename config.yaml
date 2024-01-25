@@ -1,7 +1,7 @@
 baseURL: "https://dreferrer.github.io/veilletech-portfolio/"
 languageCode: "fr"
 title: "Andrea Ferrer"
-theme: hugo-profile
+theme: hugo-profile-master
 
 outputs:
   home:
@@ -55,7 +55,7 @@ Menus:
 params:
   title: "LabVeilleTech"
   description: Mon portfolio
-  # staticPath: ""  # The path to serve the static files from
+  staticPath: "/veilletech-portfolio" # The path to serve the static files from
   favicon: "/favicon.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
@@ -124,7 +124,7 @@ params:
     title: "Andrea."
     subtitle: "Bienvenue sur mon portfolio."
     content: "Passionné par les domaines du digital et du design, je m'appelle Andrea Ferrer et je réside à Nyon."
-    image: /images/moi.svg
+    image: /veilletech-portfolio/images/moi.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
