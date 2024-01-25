@@ -6,7 +6,7 @@ author: "Andrea Ferrer"
 tags:
   - Veille technologique
   - Tools
-image: /images/veille.jpg
+image: /veilletech-portfolio/images/veille.jpg
 description: "Un petit aperçu de mes différentes techniques pour rester en veille sur les nouvelles technologies."
 toc:
 ---

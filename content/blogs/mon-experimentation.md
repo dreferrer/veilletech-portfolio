@@ -7,7 +7,7 @@ tags:
   - Veille technologique
   - Expérience
   - Arc
-image: /images/arc.jpg
+image: /veilletech-portfolio/images/arc.jpg
 description: "Article sur mon pasage de Chrome à Arc."
 toc:
 ---

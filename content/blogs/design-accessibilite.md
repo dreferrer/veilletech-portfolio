@@ -7,7 +7,7 @@ tags:
   - Design
   - UX-UI
   - Accessibilité
-image: /images/access.jpg
+image: /veilletech-portfolio/images/access.jpg
 description: "Retour sur un article traitant du design et de l'accesibilité"
 toc:
 ---

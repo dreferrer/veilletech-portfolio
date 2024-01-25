@@ -5,7 +5,7 @@ draft: false
 author: "Andrea Ferrer"
 tags:
   - Ikigai
-image: /images/Ikigai.png
+image: /veilletech-portfolio/images/Ikigai.png
 description: "Aperçu de mon Ikigai."
 toc:
 ---

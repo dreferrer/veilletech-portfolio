@@ -6,7 +6,7 @@ author: "Andrea Ferrer"
 tags:
   - UX - UI
   - Nielsen
-image: /images/nielsen.jpg
+image: /veilletech-portfolio/images/nielsen.jpg
 description: "Retour sur les heuristiques de Nielsen."
 toc:
 ---

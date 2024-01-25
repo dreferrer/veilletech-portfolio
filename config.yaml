@@ -56,7 +56,7 @@ params:
   title: "LabVeilleTech"
   description: Mon portfolio
   staticPath: "/veilletech-portfolio" # The path to serve the static files from
-  favicon: "/favicon.png"
+  favicon: "/veilletech-portfolio/favicon.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -139,7 +139,7 @@ params:
   about:
     enable: true
     title: "À propos de moi"
-    image: "/images/mapic.jpg"
+    image: "/veilletech-portfolio/images/mapic.jpg"
     content: |-
       Passionné par les domaines du digital et du design, je m'appelle Andrea Ferrer et je réside à Nyon. J'aimerais dans le futur travailler dans le domaine de l'UX et de l'UI. D'ici là, je souhaite continuer à développer mes compétences liés à ce domain.
 
@@ -234,7 +234,7 @@ params:
       - title: Prix du public - Hackdays 2023
         content: Prix gagné pour un travail réalisé pour Couleur 3.
         url: https://www.srgssr.ch/fr/news-medias/news/hackdays-ssr-2023-les-projets-vainqueurs
-        image: /images/achievment.jpg
+        image: /veilletech-portfolio/images/achievment.jpg
 
   # projects
   projects:
@@ -243,7 +243,7 @@ params:
     items:
       - title: Digital Storytelling
         content: Vidéo de vulgarisation sur le sujet des fake news.
-        image: /images/projects/ds-portfolio-pic.png
+        image: /veilletech-portfolio/images/projects/ds-portfolio-pic.png
         featured:
           name: Vidéo
           link: https://youtu.be/6QOPKnH8H8U
@@ -256,14 +256,14 @@ params:
 
       - title: Street Food Point
         content: Création d'un blog dans le cadre d'un cours, sur le thème de la street food.
-        image: /images/projects/sfp-main-image.png
+        image: /veilletech-portfolio/images/projects/sfp-main-image.png
         badges:
           - "Wordpress"
           - "Google Analytics"
 
       - title: Couleur 3 Interact
         content: Création en groupe d'une application mobile pour Couleur 3.
-        image: /images/projects/couleur3.png
+        image: /veilletech-portfolio/images/projects/couleur3.png
         featured:
           name: Accéder au repo GitHub
           link: https://github.com/vitpintodas/taoula-laravel

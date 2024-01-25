@@ -6,7 +6,7 @@ author: "Andrea Ferrer"
 tags:
   - UX-UI
   - Psychologie
-image: /images/post.jpg
+image: /veilletech-portfolio/images/post.jpg
 description: "La Psychologie derrière le Design UX : Décryptage des Astuces des Développeurs pour une Expérience Utilisateur Captivante."
 toc:
 ---

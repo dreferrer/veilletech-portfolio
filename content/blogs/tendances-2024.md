@@ -6,7 +6,7 @@ author: "Andrea Ferrer"
 tags:
   - UX - UI
   - Trends
-image: /images/ux-trends.png
+image: /veilletech-portfolio/images/ux-trends.png
 description: "Petite revue des prochainent tendances en UI - UX en 2024."
 toc:
 ---
