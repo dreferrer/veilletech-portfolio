@@ -139,7 +139,7 @@ params:
   about:
     enable: true
     title: "À propos de moi"
-    image: "/veilletech-portfolio/images/mapic.jpg"
+    image: /veilletech-portfolio/images/mapic.jpg
     content: |-
       Passionné par les domaines du digital et du design, je m'appelle Andrea Ferrer et je réside à Nyon. J'aimerais dans le futur travailler dans le domaine de l'UX et de l'UI. D'ici là, je souhaite continuer à développer mes compétences liés à ce domain.
 
