@@ -5,5 +5,5 @@ draft: false
 description: "Ma galerie :earth_asia:"
 layout: "gallery"
 images:
-  - src: "/veilletech-portfolio/images/ikigai.png"
+  - src: "/veilletech-portfolio/images/Ikigai.png"
 ---
